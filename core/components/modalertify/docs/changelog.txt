@@ -1,0 +1,19 @@
+Changelog for modAlertify.
+
+1.0.4-beta
+==============
+- Added notices: Bootstrap Notify, Overhang JS, Noty, Toastr
+- Fixed plugin
+- Fixed /web/default.js
+
+1.0.3-beta
+==============
+- Fixed /web/default.js
+
+1.0.2-beta
+==============
+- Fixed /web/default.js
+
+1.0.1-beta
+==============
+- First release
